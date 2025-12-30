@@ -1,6 +1,7 @@
 {
     "ServerEnvironment": "prod",
-    "ContentURL": "http://192.168.1.105:9340/",
+    "ContentURL": "http://127.0.0.1.105:9340/",
     "UpdateURL": "https://www.clashofclans.com",
     "Debug": false
+
 }
